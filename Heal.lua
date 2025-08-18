@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/KeroTNT/Scripturi-TNTHUB/refs/heads/main/God%20Mode.lua
+game:GetService('ReplicatedStorage')['ACS_Engine'].Eventos.Damage:FireServer(game.Players.LocalPlayer.Character.Humanoid, -50, 0, 0)
